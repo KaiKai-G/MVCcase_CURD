@@ -14,3 +14,5 @@
   * 分页用户的信息: 1.显示全部/查询到的用户个数和页码数 2.根据页码点击遍历用户 3.点击前一页、后一页  
     
 ### 用到的技术有:Servlet+JS+JSP+MySQL+JDBCTempleat+Duird+BeanUtilS+tomcat
+
+### 全部功能的架构图都放到了Process_image中
