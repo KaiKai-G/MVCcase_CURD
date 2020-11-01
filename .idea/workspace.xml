@@ -18,7 +18,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/itcase/web/FindUserByPageServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,11 +87,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="81" />
-    <option name="y" value="88" />
-    <option name="width" value="1865" />
-    <option name="height" value="985" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="271" />
+    <option name="y" value="160" />
+    <option name="width" value="1592" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +118,13 @@
               <item name="MVCcase_CURD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="itcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVCcase_CURD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVCcase_CURD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itcase" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -394,6 +411,7 @@
       <workItem from="1604227305103" duration="1189000" />
       <workItem from="1604228586223" duration="352000" />
       <workItem from="1604229867005" duration="119000" />
+      <workItem from="1604229999527" duration="351000" />
     </task>
     <servers />
   </component>
@@ -430,7 +448,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82134000" />
+    <option name="totallyTimeSpent" value="82485000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,9 +460,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="16" width="1492" height="788" extended-state="0" />
+    <frame x="217" y="128" width="1273" height="686" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4922049" visible="true" weight="0.17085077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4922049" visible="true" weight="0.20411523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" sideWeight="0.5077951" side_tool="true" weight="0.13110182" />
       <window_info id="Designer" order="3" />
@@ -452,7 +470,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329653" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965107" weight="0.3015873" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965107" weight="0.3465909" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895325" weight="0.47460318" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -906,13 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/itcase/web/FindUserByPageServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Process_image/MVC开发模式.bmp">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -960,6 +971,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="21" column="86" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcase/web/FindUserByPageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
         </state>
       </provider>
     </entry>
