@@ -15,4 +15,5 @@
     
 ### 用到的技术有:Servlet+JS+JSP+MySQL+JDBCTempleat+Duird+BeanUtilS+tomcat
 
-### 全部功能的架构图都放到了Process_image中
+### 全部功能的架构图都放到了Process_image中  
+这个项目的代码都是我自己一个一个打出来的，要是对各位有用的话可否给个star. 
