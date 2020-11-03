@@ -124,10 +124,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="101" />
-    <option name="width" value="1594" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="101" />
+    <option name="y" value="100" />
+    <option name="width" value="1595" />
     <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
